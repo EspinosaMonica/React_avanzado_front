@@ -9,7 +9,7 @@ export default function ContenidoPrivado(){
 
       return(
         <div>
-            <h2>Welcom {user.name}</h2>
+            <h2>Bienvenido {user.name}</h2>
             <ArticulosBlog />
         </div>
       )
